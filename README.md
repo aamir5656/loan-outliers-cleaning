@@ -42,5 +42,14 @@ The goal was to clean the data and make it more reliable for analysis.
 - Clean dataset is now ready for further statistical analysis or machine‑learning tasks.
 
 ---
+---
+
+## ▶️ Run on Kaggle
+
+You can also run the full notebook on Kaggle without downloading anything:  
+🔗 [Click here to open on Kaggle](https://www.kaggle.com/aamir5659)
+
+---
+
 
 Thanks for checking out this work! Suggestions are welcome.
