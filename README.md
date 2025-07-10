@@ -47,7 +47,7 @@ The goal was to clean the data and make it more reliable for analysis.
 ## ▶️ Run on Kaggle
 
 You can also run the full notebook on Kaggle without downloading anything:  
-🔗 [Click here to open on Kaggle](https://www.kaggle.com/aamir5659)
+🔗 [Click here to open on Kaggle](https://www.kaggle.com/aamir5659/outlier-detection-and-removal-dataset)
 
 ---
 
